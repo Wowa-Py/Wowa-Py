@@ -1,24 +1,14 @@
+### Hi there 👋 😀
 
-### Hi there 👋
-
-### My skills:
-
-   
-      Web development using FastAPI, Django, and Django REST Framework
-     
-      Creating RESTful APIs using Swagger/OpenAPI and RAML
-      
-      Testing and debugging code
-      
-      Setting up integrations with various APIs
-      
-      Managing data (PostgreSQL) and working with ORM models
-      
-      Developing microservice architecture: Dividing functionality of the application into separate microservices and interacting with them using APIs
-      
-      Writing Dockerfile and docker-compose.yml, deploying and managing containers
-      
-      Developing authentication and authorization systems. Creating a user management system that includes registration, login, and access control. Familiar with using tools such as JWT (JSON Web Tokens), OAuth, and Django built-in authentication and authorization systems.
+### 👨‍💻 My skills 🤖:
+- Web development using FastAPI, Django, and Django REST Framework 
+- Creating RESTful APIs using Swagger/OpenAPI and RAML 
+- Testing and debugging code 
+- Setting up integrations with various APIs       
+- Managing data (PostgreSQL) and working with ORM models    
+- Developing microservice architecture: Dividing functionality of the application into separate microservices and interacting with them using APIs      
+- Writing Dockerfile and docker-compose.yml, deploying and managing containers       
+- Developing authentication and authorization systems. Creating a user management system that includes registration, login, and access control. Familiar with using tools such as JWT (JSON Web Tokens), OAuth, and Django built-in authentication and authorization systems 
    
 
 <!--

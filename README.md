@@ -1,4 +1,4 @@
-### Hi there 👋😊
+### Hi there 👋
 
 ### 👨🏻‍💻 My skills 🤖:
 - Web development using FastAPI, Django, and Django REST Framework 

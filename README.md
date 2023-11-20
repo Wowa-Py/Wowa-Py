@@ -1,6 +1,6 @@
-### Hi there 👋 😀
+### Hi there 👋😊
 
-### 👨‍💻 My skills 🤖:
+### 👨🏻‍💻 My skills 🤖:
 - Web development using FastAPI, Django, and Django REST Framework 
 - Creating RESTful APIs using Swagger/OpenAPI and RAML 
 - Testing and debugging code 

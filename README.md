@@ -2,10 +2,7 @@
 
 **My skills** 🤖:
 - Web development using FastAPI, Django, and Django REST Framework 
-- Creating RESTful APIs using Swagger/OpenAPI and RAML 
-- Testing and debugging code 
-- Setting up integrations with various APIs       
-- Managing data (PostgreSQL) and working with ORM models    
+- Creating RESTful APIs using Swagger/OpenAPI and RAML     
 - Developing microservice architecture: Dividing functionality of the application into separate microservices and interacting with them using APIs      
 
 

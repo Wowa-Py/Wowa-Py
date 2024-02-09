@@ -3,8 +3,7 @@
 **My skills** 🤖:
 - Web development using FastAPI, Django, and Django REST Framework 
 - Creating RESTful APIs using Swagger/OpenAPI and RAML     
-- Developing microservice architecture: Dividing functionality of the application into separate microservices and interacting with them using APIs      
-
+- Developing microservice architecture
 
 <!--
 **Wowa-Py/Wowa-Py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

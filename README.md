@@ -1,5 +1,6 @@
-### Hi there 👋 🦖🦖🦖 I’m Wowa web-dev
-  **My skills** 🤹 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wowa-Py&theme=merko)
+  
+**My skills** 🤹 
 - ✅**API Service Development :** Proficient in developing API services using Python and Go programming languages. 🥇🐍🐳ʕ•ᴥ•ʔ
 - ✅**Deep Understanding of API Development Principles :** Experienced in working with various frameworks such as FastAPI, Flask, Django, Gin, and Echo. 🤿📈
 - ✅**Database Integration :** Proficient in integrating with databases such as MySQL, PostgreSQL, and MongoDB. 🕹️🖇️💾
@@ -21,5 +22,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+В вашем случае, чтобы изменить цветовую схему на radical, вы можете выбрать один из следующих вариантов цветовых схем:
+
+default
+radical
+merko
+gruvbox
+tokyonight
+onedark
+cobalt
+synthwave
+highcontrast
+dracula
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api username=Wowa-Py&theme=radical)
+

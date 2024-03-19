@@ -1,5 +1,5 @@
 ### Hi there 👋 🦖🦖🦖
-  **My skills** 🤹 🤸🏻‍♂️
+  **My skills** 🤹 
 - ✅**API Service Development :** Proficient in developing API services using Python and Go programming languages. 🥇🐍🐳ʕ•ᴥ•ʔ
 - ✅**Deep Understanding of API Development Principles :** Experienced in working with various frameworks such as FastAPI, Flask, Django, Gin, and Echo. 🤿📈
 - ✅**Database Integration :** Proficient in integrating with databases such as MySQL, PostgreSQL, and MongoDB. 🕹️🖇️💾

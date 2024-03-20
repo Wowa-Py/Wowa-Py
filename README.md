@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wowa-Py&theme=merko)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wowa-Py&theme=merko) ![Ish's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Wowa-Py&count_private=true&layout=compact&show_icons=true&theme=merko) 
   
 **My skills** 🤹 
 - ✅**API Service Development :** Using Python and Go programming languages.
@@ -9,7 +9,7 @@
 - ✅**API Testing and Debugging :** Proficient in testing and debugging APIs to ensure high-quality code and functionality. 🎲
 - ✅**API Documentation :** Experienced in documenting both new and existing APIs for clarity and ease of use. 📝🚩
 - ✅**Redis and Celery :** Proficient in working with Redis for caching and Celery for task queue management. ♻️🎯
-  
+
 <!--
 **Wowa-Py/Wowa-Py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋

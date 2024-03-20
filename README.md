@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wowa-Py&theme=merko&custom_title=Ish's%20github%20stats&hide_border=true&bg_color=ffffff00) ![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Wowa-Py&count_private=true&layout=compact&show_icons=true&theme=merko&custom_title=Ish's%20github%20stats&hide_border=true&bg_color=ffffff00) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wowa-Py&theme=merko&custom_title=GitHub%20stats%20Wowa-Py&hide_border=true&bg_color=ffffff00) ![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Wowa-Py&count_private=true&layout=compact&show_icons=true&theme=merko&custom_title=language%20stats&hide_border=true&bg_color=ffffff00) 
   
 **My skills** 🤹 
 - ✅**API Service Development :** Using Python and Go programming languages.

@@ -1,5 +1,5 @@
 <canvas id="myChart" width="400" height="400"></canvas>
-<script src="path/to/Chart.js"></script>
+<script src="Wowa-Py/Chart.js"></script>
 <script>
 var ctx = document.getElementById('myChart').getContext('2d');
 var myChart = new Chart(ctx, {

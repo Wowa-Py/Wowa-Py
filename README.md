@@ -2,7 +2,7 @@
   
 **My skills** 🤹 
 - ✅**API Service Development :** Using Python and Go programming languages.
-🐍🐳 ʕ•ᴥ•ʔ
+🐍 🐳 ʕ•ᴥ•ʔ
 - ✅**Deep Understanding of Development Principles architectural's styles :** RESTful API and gRPC. I working with various frameworks such as FastAPI, Flask, Django, Gin, and Echo. 🤿📈
 - ✅**Database Integration :** MySQL, PostgreSQL, and MongoDB. 🕹️💾
 - ✅**Secure API Development :** Experienced in developing secure and protected APIs using authentication and authorization protocols like OAuth and JWT. 🔑✔
